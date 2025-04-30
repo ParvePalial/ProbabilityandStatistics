@@ -79,7 +79,7 @@ The simulations will produce:
 
 - Terminal outputs showing the results of the simulations
 - Static visualizations saved as PNG files:
-  - `monty_hall_results.png`
+  - `monty_hall_results.png` ![demo of program in action](./monty_hall_results.png)
   - `monty_hall_visualization.png`
   - `bertrands_box_results.png`
   - `bertrands_box_visualization.png`
